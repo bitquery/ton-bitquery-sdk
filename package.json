@@ -5,10 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["TON blockchain SDK", "Bitquery TON integration", "TON DEX trades API", "TON top tokens and traders", "GraphQL API for TON network", "TON analytics tools", "TON token trade history", "bitquery-ton-sdk npm package"],
   "author": "Bitquery",
   "license": "ISC",
-  "description": "",
+  "description": "A lightweight JavaScript SDK to query TON blockchain DEX trades, token analytics, and top traders using the Bitquery GraphQL API.",
   "dependencies": {
     "axios": "^1.9.0"
   }

@@ -1,0 +1,15 @@
+{
+  "name": "bitquery-ton-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bitquery",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
